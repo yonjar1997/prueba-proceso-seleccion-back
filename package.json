@@ -1,0 +1,23 @@
+{
+  "name": "prueba-proceso-seleccion-back",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "serverless-offline": "^8.3.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonjar1997/prueba-proceso-seleccion-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonjar1997/prueba-proceso-seleccion-back/issues"
+  },
+  "homepage": "https://github.com/yonjar1997/prueba-proceso-seleccion-back#readme"
+}
